@@ -2,3 +2,7 @@ baseURL = 'https://savvas.live'
 languageCode = 'en-us'
 title = 'Savvas Blog'
 theme = 'PaperMod'
+
+[Params]
+  ShowPostNavLinks = 'false'
+  hideFooter = 'true'
