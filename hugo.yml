@@ -11,9 +11,10 @@ params:
   homeInfoParams:
     title: Hey!
     image:
-      url: pixwiz.png
+      url: 'https://i.imgur.com/d0pdui4.png'
       title: pixwiz
-    Content: "I’m Savvas, \U0001F511Privacy, \U0001F578️Networks and \U0001F3AEVideo Games lover."
+    content: |
+      - I’m Savvas, 🔑Privacy, 🕸️Networks and 🎮Video Games lover. 
     
   socialIcons:
     - name: <mastodon.social>
