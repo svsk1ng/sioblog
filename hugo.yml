@@ -10,8 +10,8 @@ params:
   
   homeInfoParams:
     image:
-      url: https://github.com/svsk1ng/sioblog/blob/main/static/pixwiz.png
-      title: savvas
+      url: pixwiz.png
+      title: pixwiz
     Content: "I’m Savvas, \U0001F511Privacy, \U0001F578️Networks and \U0001F3AEVideo Games lover."
     
   socialIcons:
