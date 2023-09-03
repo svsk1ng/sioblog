@@ -4,10 +4,15 @@ title = 'Savvas Blog'
 theme = 'PaperMod'
 
 [params]
+ 
+  hideFooter = 'true'
+  ShowPostNavLinks = 'false'
 
+  # homeinfomode
   [params.homeInfoParams]
-  Title = "Hey"
-  Content = "I'm Savvas, Privacy, Networks and Games lover."
- #ShowPostNavLinks = 'false'
- #hideFooter = 'true'
- #ShowPostNavLinks = 'false'
+    Title = "Hey"
+    Content = "I’m Savvas, Privacy, Networks and Games lover."
+	
+    [[params.socialIcons]]
+      name = "<mastodon.social>"
+      url = "https://fosstodon.org/@sio"
