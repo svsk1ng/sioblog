@@ -10,8 +10,11 @@ theme = 'PaperMod'
 
   # homeinfomode
   [params.homeInfoParams]
+    imageUrl = "<https://imgur.com/a/9q4nTCg>"
+	imageWidth = 120
+	imageHeight = 120
     Title = "Hey"
-    Content = "I’m Savvas, Privacy, Networks and Games lover."
+    Content = "I’m Savvas, 🔑Privacy, 🕸️Networks and 🎮Video Games lover."
 	
     [[params.socialIcons]]
       name = "<mastodon.social>"
