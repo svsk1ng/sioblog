@@ -2,3 +2,5 @@ baseURL = 'https://savvas.live'
 languageCode = 'en-us'
 title = 'Savvas Blog'
 theme = 'PaperMod'
+[params]
+defaultTheme = dark
