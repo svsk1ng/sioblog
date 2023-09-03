@@ -9,6 +9,7 @@ params:
   ShowPostNavLinks: 'false'
   
   homeInfoParams:
+    title: Hey!
     image:
       url: pixwiz.png
       title: pixwiz
