@@ -7,6 +7,13 @@ theme = 'PaperMod'
  
   hideFooter = 'true'
   ShowPostNavLinks = 'false'
+  
+  #menu
+  [menu]
+    [[menu.main]]
+    identifier = "archives"
+    name = "archives"
+    url = "/archives/"
 
   # homeinfomode
   [params.homeInfoParams]
@@ -19,3 +26,5 @@ theme = 'PaperMod'
     [[params.socialIcons]]
       name = "<mastodon.social>"
       url = "https://fosstodon.org/@sio"
+	  
+	  
