@@ -1,0 +1,26 @@
+baseURL: 'https://savvas.live'
+languageCode: en-us
+title: "Savvas Blog \U0001F4D6"
+theme: PaperMod
+
+params:
+  hideFooter: 'true'
+  ShowPostNavLinks: 'false'
+  
+  homeInfoParams:
+    image:
+      url: https://i.imgur.com/bthatu4.png
+      title: savvas
+      link : savvas.live
+    title: Hey
+    Content: "I’m Savvas, \U0001F511Privacy, \U0001F578️Networks and \U0001F3AEVideo Games lover."
+    
+  socialIcons:
+    - name: <mastodon.social>
+      url: 'https://fosstodon.org/@sio'
+      
+menu:
+  main:
+    - identifier: archives
+      name: archives
+      url: /archives/
