@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Savvas Blog'
 theme = 'PaperMod'
 
-[Params]
-  ShowPostNavLinks = 'false'
-  hideFooter = 'true'
+[params]
+
+  [params.homeInfoParams]
+  Title = "Hey"
+  Content = "I'm Savvas, Privacy, Networks and Games lover."
+ #ShowPostNavLinks = 'false'
+ #hideFooter = 'true'
+ #ShowPostNavLinks = 'false'
