@@ -11,8 +11,8 @@ params:
   homeInfoParams:
     title: Hey!
     image:
-      url: https://www.i.imgur.com/d0pdui4.png
-      title: pixwiz
+      url: pixwiz.png
+      title: sio
     content: |
       - I’m Savvas, 🔑Privacy, 🕸️Networks and 🎮Video Games lover. 
     
