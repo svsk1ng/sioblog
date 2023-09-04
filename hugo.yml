@@ -9,9 +9,8 @@ params:
   ShowPostNavLinks: 'false'
   
   homeInfoParams:
-    title: Hey!
     image:
-      url: https://sioblog.pages.dev/pixwiz.png
+      url: https://savvas.live/pixwiz.png
       title: sio
     content: |
       - I’m Savvas, 🔑Privacy, 🕸️Networks and 🎮Video Games lover. 
