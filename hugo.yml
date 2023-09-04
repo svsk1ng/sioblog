@@ -1,6 +1,6 @@
-baseURL: 'https://savvas.live'
+baseURL: https://savvas.live
 languageCode: en-us
-title: "savvas.live"
+title: savvas.live
 theme: PaperMod
 paginate: 5
 
@@ -11,7 +11,7 @@ params:
   homeInfoParams:
     title: Hey! 👋
     image:
-      url: https://www.pokepedia.fr/images/7/76/Pikachu-DEPS.png
+      url: https://savvas.live/pixwiz.png
     content: |
       - I’m Savvas, 🔑Privacy, 🕸️Networks and 🎮Video Games lover. 
     
