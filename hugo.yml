@@ -14,7 +14,8 @@ params:
       url: https://savvas.live/pixwiz.png
       title: pixwiz
     content: |
-      - I’m Savvas, 🔑Privacy, 🕸️Networks and 🎮Video Games lover. 
+      - I’m Savvas, 🔑Privacy, 🕸️Computer Networks and 🎮Video Games lover. 
+      - Sometimes i like to write my opinion about Life and how technology affect our lives :)
     
   socialIcons:
     - name: mastodon.social
