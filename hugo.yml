@@ -1,4 +1,5 @@
-baseURL: https://savvas.live
+#baseURL: https://savvas.live
+relativeURLs: true
 languageCode: en-us
 title: savvas.live
 theme: PaperMod
