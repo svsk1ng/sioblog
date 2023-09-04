@@ -17,8 +17,8 @@ params:
       - I’m Savvas, 🔑Privacy, 🕸️Networks and 🎮Video Games lover. 
     
   socialIcons:
-    - name: <mastodon.social>
-      url: 'https://fosstodon.org/@sio'
+    - name: mastodon.social
+      url: https://fosstodon.org/@sio
       
 menu:
   main:
