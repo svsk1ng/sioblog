@@ -6,8 +6,8 @@
 .home-info-container img {
   flex: 1;
   flex-shrink: 0;
-  height: auto;
-  max-width: 600px;
+  height: 150px;
+  max-width: 150px;
   margin-right: 20px;
   border-radius: 20%;
 }
