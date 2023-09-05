@@ -22,8 +22,8 @@ params:
       icons:
         - name: mastodon
           url: https://fosstodon.org/@sio
-  
-   menu:
+  # menu
+  menu:
       main:
         - identifier: archives
           name: archives
