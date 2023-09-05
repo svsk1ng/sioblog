@@ -17,7 +17,9 @@ params:
       - I’m Savvas, 🔑Privacy, 🕸️Computer Networks and 🎮Video Games lover. 
       - Sometimes i like to write my opinion about Technology and how it affects our lives :)
     
-  socialIcons:
+  social:
+    align: left
+    icons:
     - name: mastodon.social
       url: https://fosstodon.org/@sio
       
