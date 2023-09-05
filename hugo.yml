@@ -8,6 +8,7 @@ params:
   hideFooter: 'true'
   ShowPostNavLinks: 'false'
   
+  # Home page
   homeInfoParams:
     title: Hey! 👋
     image:
@@ -16,15 +17,15 @@ params:
     content: |
       - I’m Savvas, 🔑Privacy, 🕸️Computer Networks and 🎮Video Games lover. 
       - Sometimes i like to write my opinion about Technology and how it affects our lives :)
-    
-  social:
-    align: left
-    icons:
-       - name: mastodon.social
-       url: https://fosstodon.org/@sio
-      
-menu:
-  main:
-    - identifier: archives
-      name: archives
-      url: /archives/
+    social:
+      align: left
+      icons:
+        - name: mastodon.social
+        url: https://fosstodon.org/@sio
+  
+   #menu
+   menu:
+      main:
+        - identifier: archives
+          name: archives
+          url: /archives/
