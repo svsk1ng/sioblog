@@ -20,8 +20,8 @@ params:
     social:
       align: left
       icons:
-        - name: mastodon.social
-        url: https://fosstodon.org/@sio
+        - name: mastodon
+          url: https://fosstodon.org/@sio
   
    #menu
    menu:
