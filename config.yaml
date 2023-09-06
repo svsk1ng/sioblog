@@ -24,7 +24,7 @@ params:
           url: https://fosstodon.org/@sio
 
   menu:
-    main:
-      - identifier: archives
-        name: archives
-        url: /archives/
+  main:
+    - identifier: archives
+      name: archives
+      url: /archives/
