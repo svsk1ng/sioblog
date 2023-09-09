@@ -22,9 +22,18 @@ params:
       icons:
         - name: mastodon
           url: https://fosstodon.org/@sio
-
+  #menu
   menu:
-  main:
-    - identifier: archives
-      name: archives
-      url: /archives/
+    main:
+      - identifier: search
+        name: search
+        url: /search/
+        weight: 10
+      - identifier: tags
+        name: tags
+        url: /tags/
+        weight: 20
+      - identifier: archives
+        name: archives
+        url: /archives/
+        weight: 30
