@@ -7,7 +7,7 @@ paginate: 5
 params:
   hideFooter: 'true'
   ShowPostNavLinks: 'false'
-  
+
   # Home page
   homeInfoParams:
     title: Hey! 👋
@@ -22,14 +22,9 @@ params:
       icons:
         - name: mastodon
           url: https://fosstodon.org/@sio
-  #menu
+  
   menu:
     main:
-      - identifier: tags
-        name: tags
-        url: /tags/
-        weight: 10
       - identifier: archives
         name: archives
         url: /archives/
-        weight: 20
