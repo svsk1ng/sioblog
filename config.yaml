@@ -5,8 +5,9 @@ theme: PaperMod
 paginate: 5
 
 params:
-  hideFooter: 'true'
-  ShowPostNavLinks: 'false'
+  hideFooter: true
+  ShowPostNavLinks: false
+  hidesummary: true
 
   # Home page
   homeInfoParams:
