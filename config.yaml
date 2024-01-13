@@ -21,7 +21,7 @@ params:
     social:
       align: left
       icons:
-        - name: <a rel="me" href="https://fosstodon.org/@sio">Mastodon</a>
+        - name: Mastodon
           url: <a rel="me" href="https://fosstodon.org/@sio">Mastodon</a>
   
   # Search options
