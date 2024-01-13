@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on savvas.live</title>
+    <link>https://savvas.live/posts/</link>
+    <description>Recent content in Posts on savvas.live</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Sep 2023 13:05:18 +0300</lastBuildDate><atom:link href="https://savvas.live/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Privacy and Security Matters</title>
+      <link>https://savvas.live/posts/why-privacy-and-security-matters/</link>
+      <pubDate>Sat, 09 Sep 2023 13:05:18 +0300</pubDate>
+      
+      <guid>https://savvas.live/posts/why-privacy-and-security-matters/</guid>
+      <description>We live in the modern age of didital data exploitation. Big tech companies are trying to make big profits from users data and targeted-advertising. Our privacy and security is at a critical stage and everyone shall try to be more alerted of what information are exposing to the web. For starters, let me explain the difference between privacy and security from my prespective.
+Privacy is the assurance that your data is only seen by the parties you itent to view it.</description>
+    </item>
+    
+    <item>
+      <title>Kids From the 90s Part 1</title>
+      <link>https://savvas.live/posts/kids-from-the-90s-part1/</link>
+      <pubDate>Wed, 06 Sep 2023 17:59:07 +0300</pubDate>
+      
+      <guid>https://savvas.live/posts/kids-from-the-90s-part1/</guid>
+      <description>I fondly recall my childhood, a time when I rushed home from school only to dash out again to join my friends in the neighborhood for hours of unbridled play. Those were the glorious days of the 90s when our idea of fun was kicking around a football or lounging in the park until our knees were caked in dirt. Back then, the concept of a smart mobile device was as alien to us as space travel.</description>
+    </item>
+    
+  </channel>
+</rss>
