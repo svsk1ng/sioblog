@@ -19,4 +19,4 @@ Kids in our days can use YouTube on a smartphone device by the age of 2. They ca
 
 Will continue to write storied in the next part. Until then, ask yourselves about a nostalgic momment in the past and what you would give to go back in time.
 
-SIO
+Btw you can visit me on <a rel="me" href="https://fosstodon.org/@sio">Mastodon</a>
