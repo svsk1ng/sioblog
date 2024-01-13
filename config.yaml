@@ -21,8 +21,8 @@ params:
     social:
       align: left
       icons:
-        - name: mastodon
-          url: https://fosstodon.org/@sio
+        - name: <a rel="me" href="https://fosstodon.org/@sio">Mastodon</a>
+          url: <a rel="me" href="https://fosstodon.org/@sio">Mastodon</a>
   
   # Search options
   # https://fusejs.io/api/options.html
