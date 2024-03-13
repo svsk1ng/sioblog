@@ -1,7 +1,7 @@
 baseURL: https://savvas.live
 languageCode: en-us
 title: savvas.live
-theme: hugo-blog-awesome
+theme: PaperMod
 paginate: 5
 
 params:
